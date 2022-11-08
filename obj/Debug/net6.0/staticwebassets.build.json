@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lLlnZHvwV5mmiIJmvWBOPqIh3BFoSjsNxddvgzwGxl4=",
+  "Source": "EBS_API",
+  "BasePath": "_content/EBS_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
